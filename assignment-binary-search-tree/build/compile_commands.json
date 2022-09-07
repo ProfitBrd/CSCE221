@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/profitbrd/github/csce221/assignment-binary-search-tree/build",
+  "command": "/bin/c++    -Wall -pedantic -g -std=gnu++17 -o CMakeFiles/BinarySearchTree.dir/src/main.cpp.o -c /home/profitbrd/github/csce221/assignment-binary-search-tree/src/main.cpp",
+  "file": "/home/profitbrd/github/csce221/assignment-binary-search-tree/src/main.cpp"
+}
+]
