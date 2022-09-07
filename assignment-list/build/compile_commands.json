@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/profitbrd/github/csce221/assignment-list/build",
+  "command": "/bin/c++    -Wall -pedantic -g -std=gnu++17 -o CMakeFiles/List.dir/src/Card.cpp.o -c /home/profitbrd/github/csce221/assignment-list/src/Card.cpp",
+  "file": "/home/profitbrd/github/csce221/assignment-list/src/Card.cpp"
+},
+{
+  "directory": "/home/profitbrd/github/csce221/assignment-list/build",
+  "command": "/bin/c++    -Wall -pedantic -g -std=gnu++17 -o CMakeFiles/List.dir/src/main.cpp.o -c /home/profitbrd/github/csce221/assignment-list/src/main.cpp",
+  "file": "/home/profitbrd/github/csce221/assignment-list/src/main.cpp"
+}
+]

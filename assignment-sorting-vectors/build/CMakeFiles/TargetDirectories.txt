@@ -1,0 +1,3 @@
+/home/profitbrd/github/csce221/assignment-sorting-vectors/build/CMakeFiles/SortingVectors.dir
+/home/profitbrd/github/csce221/assignment-sorting-vectors/build/CMakeFiles/edit_cache.dir
+/home/profitbrd/github/csce221/assignment-sorting-vectors/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/profitbrd/github/csce221/assignment-vector/build",
+  "command": "/bin/c++    -Wall -pedantic -g -std=gnu++17 -o CMakeFiles/Vector.dir/src/Datum.cpp.o -c /home/profitbrd/github/csce221/assignment-vector/src/Datum.cpp",
+  "file": "/home/profitbrd/github/csce221/assignment-vector/src/Datum.cpp"
+},
+{
+  "directory": "/home/profitbrd/github/csce221/assignment-vector/build",
+  "command": "/bin/c++    -Wall -pedantic -g -std=gnu++17 -o CMakeFiles/Vector.dir/src/main.cpp.o -c /home/profitbrd/github/csce221/assignment-vector/src/main.cpp",
+  "file": "/home/profitbrd/github/csce221/assignment-vector/src/main.cpp"
+},
+{
+  "directory": "/home/profitbrd/github/csce221/assignment-vector/build",
+  "command": "/bin/c++    -Wall -pedantic -g -std=gnu++17 -o CMakeFiles/Vector.dir/src/test.cpp.o -c /home/profitbrd/github/csce221/assignment-vector/src/test.cpp",
+  "file": "/home/profitbrd/github/csce221/assignment-vector/src/test.cpp"
+}
+]

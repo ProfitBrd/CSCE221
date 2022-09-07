@@ -1,0 +1,1 @@
+/bin/c++  -Wall -pedantic -g -rdynamic CMakeFiles/UnorderedMap.dir/src/main.cpp.o CMakeFiles/UnorderedMap.dir/src/primes.cpp.o -o UnorderedMap 

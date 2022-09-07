@@ -1,0 +1,3 @@
+/home/profitbrd/github/csce221/assignment-list/build/CMakeFiles/List.dir
+/home/profitbrd/github/csce221/assignment-list/build/CMakeFiles/edit_cache.dir
+/home/profitbrd/github/csce221/assignment-list/build/CMakeFiles/rebuild_cache.dir

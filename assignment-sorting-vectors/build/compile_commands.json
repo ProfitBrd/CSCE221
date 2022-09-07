@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/profitbrd/github/csce221/assignment-sorting-vectors/build",
+  "command": "/bin/c++    -Wall -pedantic -g -std=gnu++17 -o CMakeFiles/SortingVectors.dir/src/main.cpp.o -c /home/profitbrd/github/csce221/assignment-sorting-vectors/src/main.cpp",
+  "file": "/home/profitbrd/github/csce221/assignment-sorting-vectors/src/main.cpp"
+}
+]

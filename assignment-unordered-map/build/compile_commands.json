@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/profitbrd/github/csce221/assignment-unordered-map/build",
+  "command": "/bin/c++    -Wall -pedantic -g -std=gnu++17 -o CMakeFiles/UnorderedMap.dir/src/main.cpp.o -c /home/profitbrd/github/csce221/assignment-unordered-map/src/main.cpp",
+  "file": "/home/profitbrd/github/csce221/assignment-unordered-map/src/main.cpp"
+},
+{
+  "directory": "/home/profitbrd/github/csce221/assignment-unordered-map/build",
+  "command": "/bin/c++    -Wall -pedantic -g -std=gnu++17 -o CMakeFiles/UnorderedMap.dir/src/primes.cpp.o -c /home/profitbrd/github/csce221/assignment-unordered-map/src/primes.cpp",
+  "file": "/home/profitbrd/github/csce221/assignment-unordered-map/src/primes.cpp"
+}
+]

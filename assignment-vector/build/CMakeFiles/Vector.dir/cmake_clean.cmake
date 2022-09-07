@@ -1,0 +1,15 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Vector.dir/src/Datum.cpp.o"
+  "CMakeFiles/Vector.dir/src/Datum.cpp.o.d"
+  "CMakeFiles/Vector.dir/src/main.cpp.o"
+  "CMakeFiles/Vector.dir/src/main.cpp.o.d"
+  "CMakeFiles/Vector.dir/src/test.cpp.o"
+  "CMakeFiles/Vector.dir/src/test.cpp.o.d"
+  "Vector"
+  "Vector.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Vector.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

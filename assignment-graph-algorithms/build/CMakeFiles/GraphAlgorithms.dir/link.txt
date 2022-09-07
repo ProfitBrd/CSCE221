@@ -1,0 +1,1 @@
+/bin/c++  -Wall -pedantic -g -rdynamic CMakeFiles/GraphAlgorithms.dir/src/main.cpp.o -o GraphAlgorithms 
